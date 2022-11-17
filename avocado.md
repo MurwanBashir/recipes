@@ -1,2 +1,7 @@
 # ingredients
-# How to 
+- Avocado
+- Lemon 
+- Salt 
+
+# Instructions 
+
